@@ -7,3 +7,5 @@ can extract the data from the given link below and save that data in any format 
 below image).
 3. Show us the script you used to do all this. 4. The sample data extracted for the above image is :
 M2 Food Restro , https://web.whatsapp.com/send?phone=9181XXX55XXX
+
+https://www.geeksforgeeks.org/extract-data-from-justdial-using-selenium/
